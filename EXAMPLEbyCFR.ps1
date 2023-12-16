@@ -16,7 +16,7 @@ Runs the script to configure the PowerShell environment.
 Author: Christian Frischholz
 Date: 16.12.2023
 Version:0.1.0
-git-repo:
+git-repo:https://github.com/Frischifrisch/EXAMPLEbyCFR.git
 #>
 # Importiere die benötigten Module
 Import-Module PSReadLine
